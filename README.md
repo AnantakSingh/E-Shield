@@ -12,4 +12,5 @@ Usage - sources:
                                                              path/*.jpg     # glob
                                                              'https://youtu.be/Zgi9g1ksQHc'  # YouTube
 """
-```              
+```            
+A sample video has been uploaded at runs/detect/exp3  
