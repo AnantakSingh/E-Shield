@@ -1,0 +1,7 @@
+names:
+- '0'
+- '1'
+- '2'
+nc: 3
+train: ./datasets/Pistols-4/train/images
+val: ./datasets/Pistols-4/valid/images
